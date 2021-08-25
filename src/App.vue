@@ -43,6 +43,19 @@
       </td>
     </tr>
   </table>
+  <h4>Medication Prescribed: Suboxone</h4>
+  <table>
+    <thead style="text-align: center">CONFIRMATION RESULTS SUMMARY</thead>
+    <tbody>
+      <tr>
+        <th>1</th>
+        <th>2</th>
+      </tr>
+      <tr>2</tr>
+    </tbody>
+    
+
+  </table>
 </template>
 
 <script>
